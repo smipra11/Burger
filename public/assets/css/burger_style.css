@@ -1,0 +1,27 @@
+.fas fa-hamburger{
+    width:100px;
+    height:100px;
+}
+body{
+    background-image: url("../images/burger2.jpg");
+}
+.jumbotron{
+    background-color: beige;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#leftpannel{
+background-color: beige;
+text-align: center;
+}
+#rightpannel{
+    background-color: beige;
+    text-align: center;
+}
+#rightside{
+    background-color: lightsalmon;
+}
+#leftside{
+    background-color: lightsalmon;
+}
